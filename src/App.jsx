@@ -1,11 +1,14 @@
 
 import './App.css'
-
+import Header from './components/Header'
 function App() {
 
 
   return (
-    <h1>Hello React App</h1>
+    <div className="trekNepal">
+  <Header/>
+
+    </div>
     
   )
 }
