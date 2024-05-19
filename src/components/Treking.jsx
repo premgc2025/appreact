@@ -13,7 +13,7 @@ function Treking() {
 
 
     let products = [
-        { name: "Mountain 12", image: "./image/manaslu.jpeg", Duration: "15-Days", Price: "$1300", Description: "(September to November) (March to April)" },
+        { name: "Mountain 12", image: "image/manaslu.jpeg", Duration: "15-Days", Price: "$1300", Description: "(September to November) (March to April)" },
         { name: "Annapurna Himalaya", image: "./image/ABC.jpeg", Duration: "7-Days", Price: "$1000", Description: "(September to November) (March to April)" },
         { name: "Everest Base Camp", image: "./image/EBC.jpeg", Duration: "15-Days", Price: "$1500", Description: "(September to November) (March to April)" },
         { name: "Macchapuchhre", image: "./image/Macchapuchhre.jpeg", Duration: "15-Days", Price: "$500", Description: "(September to November) (March to April)" },
