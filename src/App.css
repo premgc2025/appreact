@@ -810,4 +810,19 @@ Itinerary Data Display
   padding: 1rem;
   width: 100%;
   background-color: yell;
+ 
+}
+
+.image-slide{
+  display: flex;
+}
+
+image-collection{
+  width: 23%;
+  padding: .5rem;
+  background-color: red;
+  
+}
+.image-all{
+  width: 100%;
 }
