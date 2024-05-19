@@ -262,7 +262,7 @@ function Treking() {
 
                     <div className="trek-banner-rightside-main">
                         <div className="trek-banner-rightside-image">
-                            <img class="trek-banner-rightside-bookingimage" src="/src/components/image/ABC -image2.jpeg" alt="ABC Image" />
+                            <img class="trek-banner-rightside-bookingimage" src="./image/ABC.jpeg" alt="ABC Image" />
 
                         </div>
                         <h4 >Annapurna Base Camp Trek</h4>
