@@ -9,7 +9,7 @@ function Image(){
         {name:"ABC", image:"./image/manaslu.jpeg"},
     ]
 
-    let pic = {name:"ABC", image:"./image/ABC.jpeg"}
+  
     let inpic ={name:"Lukla", image:"./src/assets/pic/Lukla.JPG"}
 
     return(
@@ -36,7 +36,7 @@ function Image(){
 
             <image className="section">
                 <h1> This is Image Section</h1>
-                <img src="./image/ABC.jpeg" alt="ABC" />
+                <img src="image/ABC.jpeg" alt="ABC" />
                 <h3>This is Lukla in src section </h3><br />
                 <img src="./src/assets/pic/Lukla.JPG" alt="lukla" />
                 <h1>This is ABC in public section</h1>
