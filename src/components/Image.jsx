@@ -10,7 +10,7 @@ function Image(){
     ]
 
   
-    let inpic ={name:"Lukla", image:"./src/assets/pic/Lukla.JPG"}
+   
 
     return(
         <div className="image-header">
@@ -35,14 +35,7 @@ function Image(){
 
 
             <image className="section">
-                <h1> This is Image Section</h1>
-                <img src="image/ABC.jpeg" alt="ABC" />
-                <h3>This is Lukla in src section </h3><br />
-                <img src="./src/assets/pic/Lukla.JPG" alt="lukla" />
-                <h1>This is ABC in public section</h1>
-                <img src={pic.image} alt="abc" />
-                <h3>Lukla Inside src</h3>
-                <img src={inpic.image} alt="Lukla" />
+                
 
             </image>
         </div>
