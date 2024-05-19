@@ -799,3 +799,15 @@ Itinerary Data Display
   border-radius: .3rem;
 
 }
+
+/* Image Section */
+.image-header{
+  padding: 10rem 3%s;
+  background-color: red;
+  width: 100%;
+}
+.image-section{
+  padding: 1rem;
+  width: 100%;
+  background-color: yell;
+}
